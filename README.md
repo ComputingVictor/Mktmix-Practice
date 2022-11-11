@@ -23,6 +23,6 @@ The repository contains a practice resolved for the subject "Programming tools f
 
 Víctor Viloria Vázquez - <victor.viloria@cunef.edu>
 
-Project Link: <https://github.com/ComputingVictor/mktmix_practice>
+Project Link: <https://github.com/ComputingVictor/Mktmix-Practice>
 
 Linkedin - <https://www.linkedin.com/in/vicviloria/>
