@@ -1,6 +1,5 @@
 # Mktmix  Practice
-
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/115224707/201351768-4d08cfd1-3bfe-47b7-833b-a1e87ab9264f.png) 
 
 ## About the repository
 
