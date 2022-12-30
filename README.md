@@ -11,8 +11,6 @@ The repository contains a practice resolved for the subject "Programming tools f
 
 - `docs`: Contains the file with the statements of the practice.
 
-- `html`: Contains the dataset notebook exported as html. 
-
 - `notebooks`:  Contains the notebook of the practice.
 
 ## Built with 
